@@ -1,5 +1,5 @@
 
-# __volatix.ai : AI-Powered Volatility Surface Generation__
+# __volatix.ai : __GAN based volatility surface generation__
 
 This projects leverages __Generative Adversarial Networks (GANs)__ to predict and generate __realistic volatility surfaces__ for __option pricing__. It aims to __enhance derivatives trading strategies__ by providing more accurate models for volatility, helping traders __optimize hedging__ and __identify arbitrage opportunities__.
 
